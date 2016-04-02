@@ -1,5 +1,7 @@
 # clojure-truebrave
 
+[![Build Status](https://snap-ci.com/omelhoro/clojure-truebrave/branch/master/build_image)](https://snap-ci.com/omelhoro/clojure-truebrave/branch/master)
+
 A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
